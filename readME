@@ -1,0 +1,32 @@
+***************************************** {{{  MOVIES CATALOG APP PROJECT  }}}*******************************************
+
+
+
+
+********************************************* {{{   ABOUT   }}}***********************************************
+This is a movie app project ;
+The purpose of creating this project is to make it easy for users to : {
+    1. View list of movies 
+    2. Users can serach for movies by title or genre
+    3. Users can click on a movie to view more details about it 
+    4. Users can add new movie to the catalog
+}
+
+
+
+
+Backend web echnoligies used: {
+ <!-- nodeJS 
+      expressJS (npm install express)
+      mySQL  (npm install mysql2)
+      SQL ORM : sequelize CLI (npm install -g sequelize cli // npm install sequelize -save) { to run : npx sequelize init}  -->
+}
+
+Frontend web technologies used: {
+<!-- Html
+     Tailwindcss
+     ReactJS
+     React spring -->
+}
+
+
